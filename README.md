@@ -4,7 +4,7 @@
 
 [Zur Übersicht](2019)
 
-- [Januar: Azure Security (Tom Janetscheck, Devoteam Alegri)](2019#azure-security---tom-janetscheck)
+- [Januar: Azure Security (Tom Janetscheck, Devoteam | Alegri)](2019#azure-security---tom-janetscheck)
 
 [Zur Übersicht](2019)
 
