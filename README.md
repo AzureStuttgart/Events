@@ -1,4 +1,4 @@
-[![AzureStuttgart.de](AzureMeetup_Stuttgart.png)](www.AzureStuttgart.de)
+[![AzureStuttgart.de](img/AzureMeetup_Stuttgart-GitHub.png)](www.AzureStuttgart.de)
 
 # Events
 
