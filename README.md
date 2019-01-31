@@ -30,7 +30,4 @@ Kontakt:
 Kontakt:
 - [Oliver auf Xing](https://www.xing.com/profile/Oliver_Wedell)
 - [Oliver auf LinkedIn](https://www.linkedin.com/in/oliverwedell/)
-
-Direkter Kontakt: 
-> oliver.wedell@mongodb.com
-> +49 172 2468115
+Weitere, direkte Kontaktinformationen (E-Mail, Telefon..) in den Slides.
