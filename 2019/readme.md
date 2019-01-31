@@ -2,7 +2,7 @@
 
 ## Januar
 
-### Azure Security - Tom Janetscheck
+### Azure Security - Tom Janetscheck (Devoteam | Alegri)
 
 > Azure infrastructure security - ultimate security in the cloud era
 > 
