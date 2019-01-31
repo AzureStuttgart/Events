@@ -18,4 +18,4 @@
 
 # Azure Stuttgart
 
-www.AzureStuttgartde | www.twitter.com/AzureStuttgart
+www.AzureStuttgart.de | www.twitter.com/AzureStuttgart
