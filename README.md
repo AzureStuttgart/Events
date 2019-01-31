@@ -1,3 +1,5 @@
+[![AzureStuttgart.de](AzureMeetup_Stuttgart.png)](www.AzureStuttgart.de)
+
 # Events
 
 ## 2019
