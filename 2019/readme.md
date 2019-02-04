@@ -17,3 +17,15 @@ Kontakt:
 - [Tom auf Xing](https://www.xing.com/profile/Thomas_Janetscheck)
 - [Tom auf LinkedIn](https://www.linkedin.com/in/thomas-janetscheck)
 - [Tom's GitHub](https://github.com/azureandbeyond)
+
+
+### Azure KI - Tobias Oberrauch (Acando)
+
+> Einstieg in die Dienste, Infrastruktur und Tools, die sich auf der Azure Plattform mit KI beschäftigen.
+
+[Folien von Tobias Oberrauch](2019-01-AzureKI_Tobias-Oberrauch.pdf)
+
+Kontakt:
+- [Tobias auf Twitter](https://twitter.com/tobiasoberrauch)
+- [Tobias auf Xing](https://www.xing.com/profile/Tobias_Oberrauch)
+- [Tobias auf LinkedIn](https://www.linkedin.com/in/tobiasoberrauch/)
