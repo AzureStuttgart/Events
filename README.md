@@ -7,6 +7,7 @@
 [Zur Übersicht](2019)
 
 - [Januar: Azure Security (Tom Janetscheck, Devoteam | Alegri)](2019#azure-security---tom-janetscheck)
+- [Januar: Azure KI (Tobias Oberrauch, Acando)](2019#azure-ki---tobias-oberrauch-acando)
 
 [Zur Übersicht](2019)
 
